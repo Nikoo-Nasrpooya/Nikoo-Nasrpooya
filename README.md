@@ -7,7 +7,7 @@
   align="right"
   width="500"
 />
-<p> A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.A passionate JavaScript/React developer.</p>
+<p> A passionate JavaScript/React developer With emphasis on mobile-first approach, scalable and well-documented codes.</p>
 
 <br/>
 <br/>
