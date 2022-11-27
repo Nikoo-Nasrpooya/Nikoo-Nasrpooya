@@ -1,6 +1,6 @@
 ![MasterHead](./banner3.jpg)
 <h1 align="center">Hi 👋, I'm Nikoo</h1>
-<h3 align="left">A passionate JavaScript/React developer.</h3>
+
  <img
   src="./mygif.gif"
   alt="coding..."
